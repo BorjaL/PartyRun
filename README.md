@@ -19,6 +19,7 @@ You will need the following things properly installed on your computer.
 * `cd partyrun`
 * `npm install`
 * `bower install`
+* Create a `.env` file. `.env_example` can be used as reference.
 
 ## Running / Development
 
