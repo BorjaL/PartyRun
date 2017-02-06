@@ -1,4 +1,4 @@
-# partyrun [![Build Status](https://travis-ci.org/BorjaL/PlayRun.svg?branch=develop)](https://travis-ci.org/BorjaL/PlayRun)
+# partyrun [![Build Status](https://travis-ci.org/BorjaL/PartyRun.svg?branch=develop)](https://travis-ci.org/BorjaL/PartyRun)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
